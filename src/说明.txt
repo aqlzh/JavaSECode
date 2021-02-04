@@ -1,0 +1,8 @@
+base   javase  基本
+oop    javase  面向对象
+
+（一）面向对象三大特性
+1.package  封装
+2.extend  extends 继承
+3. ploy  多态
+4。小知识点补缺 
