@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd5d20b5-4e5f-49c7-b7d0-7f06aaf44909" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jdbc: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jdbc: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tb_qquser: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jdbc: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tb_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJpXODHAtZX7VKoJkDOCD55KYc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDBC" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MySQLCode\JDBC" />
+      <recent name="D:\MySQLCode\JDBC\src\cn\lzh\QQ" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MySQLCode\JDBC" />
+      <recent name="D:\MySQLCode\JDBC\src\cn\lzh\QQ" />
+      <recent name="D:\MySQLCode\JDBC\src\cn\lzh\JDBCtemplate" />
+      <recent name="D:\MySQLCode\JDBC\libs" />
+      <recent name="D:\MySQLCode\JDBC\src\cn\lzh\datasource\druid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QQLogin">
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lzh.jdbc.Example01" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lzh.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lzh.jdbcTest.JDBCDemo2" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lzh.jdbcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lzh.JDBCtemplate.JdbcTemplateDemo1" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lzh.JDBCtemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lzh.qqLogin.QQLogin" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lzh.qqLogin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lzh.jdbcTest.jdbcDemo01" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lzh.jdbcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QQLogin" />
+        <item itemvalue="Application.Example01" />
+        <item itemvalue="Application.jdbcDemo01" />
+        <item itemvalue="Application.JDBCDemo2" />
+        <item itemvalue="Application.JdbcTemplateDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@74e31841" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd5d20b5-4e5f-49c7-b7d0-7f06aaf44909" name="Default Changelist" comment="" />
+      <created>1595946088181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595946088181</updated>
+      <workItem from="1595946093070" duration="6919000" />
+      <workItem from="1595999618071" duration="15465000" />
+      <workItem from="1606654809387" duration="2144000" />
+      <workItem from="1606695646672" duration="1304000" />
+      <workItem from="1606696993499" duration="3361000" />
+      <workItem from="1606717380051" duration="3543000" />
+      <workItem from="1606868386342" duration="1535000" />
+      <workItem from="1606904599462" duration="9070000" />
+      <workItem from="1606988622895" duration="1480000" />
+      <workItem from="1607065599491" duration="1290000" />
+      <workItem from="1607164028821" duration="1680000" />
+      <workItem from="1607323783198" duration="567000" />
+      <workItem from="1607346919062" duration="1024000" />
+      <workItem from="1607389416800" duration="1470000" />
+      <workItem from="1607421460561" duration="441000" />
+      <workItem from="1607423918008" duration="1911000" />
+      <workItem from="1607476065284" duration="4300000" />
+      <workItem from="1607504082043" duration="1623000" />
+      <workItem from="1607517520284" duration="1920000" />
+      <workItem from="1607559946140" duration="2238000" />
+      <workItem from="1607779039737" duration="2969000" />
+      <workItem from="1607819943783" duration="5258000" />
+      <workItem from="1607905369479" duration="4720000" />
+      <workItem from="1608965590376" duration="618000" />
+      <workItem from="1608970839145" duration="853000" />
+      <workItem from="1609066339607" duration="3109000" />
+      <workItem from="1609114770462" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607908476825">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607867885565" />
+    <state x="195" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1607908476825" />
+    <state width="1491" height="116" key="GridCell.Tab.0.bottom" timestamp="1607940620076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="116" key="GridCell.Tab.0.bottom/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607940620076" />
+    <state width="1491" height="323" key="GridCell.Tab.0.bottom/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1607436629297" />
+    <state width="1491" height="223" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607908874350" />
+    <state width="1491" height="116" key="GridCell.Tab.0.center" timestamp="1607940620075">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="116" key="GridCell.Tab.0.center/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607940620075" />
+    <state width="1491" height="323" key="GridCell.Tab.0.center/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1607436629295" />
+    <state width="1491" height="223" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607908874350" />
+    <state width="1491" height="116" key="GridCell.Tab.0.left" timestamp="1607940620075">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="116" key="GridCell.Tab.0.left/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607940620075" />
+    <state width="1491" height="323" key="GridCell.Tab.0.left/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1607436629294" />
+    <state width="1491" height="223" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607908874350" />
+    <state width="1491" height="116" key="GridCell.Tab.0.right" timestamp="1607940620075">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="116" key="GridCell.Tab.0.right/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607940620075" />
+    <state width="1491" height="323" key="GridCell.Tab.0.right/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1607436629297" />
+    <state width="1491" height="223" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607908874350" />
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1609114770868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1024.0.1024.738@0.0.1536.834" timestamp="1607820143898" />
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1366.0.1366.738@0.0.1536.834" timestamp="1609066343202" />
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1609114770868" />
+  </component>
+</project>
