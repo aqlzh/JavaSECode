@@ -22,5 +22,6 @@ public class Test01_02 {
 
         System.out.println(sum);
 
+
     }
 }

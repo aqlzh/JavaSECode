@@ -3,21 +3,6 @@ package lesson;
  // 选择排序
 public class Lesson3_09_selectSort {
     public static void main(String[] args) {
-//        int [] a = {1,4,3,2,6,7,5,8,9,0} ;
-//
-//        public static int[] selectionSort(int[] a) {
-//            for (int i = 0; i < a.length; i++) {
-//                for (int j = i + 1; j < a.length; j++) {
-//                    if (a[i] > a[j]) {
-//
-//                    }
-//                }
-//                System.out.println(Arrays.toString(a));
-//            }
-//            return a;
-//        }
-
-
 
 
                 int[] arr={1,3,2,45,65,33,12};
